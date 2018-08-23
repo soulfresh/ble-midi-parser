@@ -4,7 +4,7 @@ that can be passed to the MIDI parsing library of your choice.
 Example Usage:
 ```
 import MIDIMessage from 'midimessage';
-import parsePacket from 'ble-midi-parser';
+import { parsePacket } from 'ble-midi-parser';
 
 // After receiving a BLE MIDI packet from a source
 // such as the `noble` library.
