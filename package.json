@@ -1,6 +1,6 @@
 {
   "name": "ble-midi-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse BLE MIDI data into timestamp and MIDI data that can be passed to the MIDI parsing library of your choice.",
   "main": "./lib/index.js",
   "repository": "https://github.com/soulfresh/ble-midi-parser.git",
